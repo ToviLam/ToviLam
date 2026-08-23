@@ -36,4 +36,5 @@ I am not a software engineer by training. I am a product and data person who lea
 
 Based in Hong Kong. I like messy data problems and clear explanations.
 
+
 [LinkedIn](https://linkedin.com/in/lamkaren)
