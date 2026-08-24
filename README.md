@@ -8,14 +8,19 @@ I am not a software engineer by training. I am a product and data person who lea
 
 ### Things I have built
 
-| Project | What it is |
-|---|---|
-| **TrailMates** | Real-time social fitness app for runners, cyclists and hikers. Live GPS recording, GPX import and export, AR proximity view, and a tiered privacy model. |
-| **MyEpitaph** | End-of-life planning platform, designed around encryption, data governance and user trust. |
-| **Beanology** | Coffee recommendation app that reads location, weather and mood to suggest beans, recipes and pairings. |
-| **HungryJury** | Group dining decision app that aggregates cravings and context into one shared recommendation. |
-| **Serene Pause** | Emotional wellness app with selectable listener modes and guided exercises. |
-| **CryptoPredict AI** | Cryptocurrency dashboard with market data, technical indicators and predictive analysis. |
+**Sift** — Job-search automation platform. Pulls listings from email alerts, direct ATS APIs and third-party search into a Notion database, scores each role against user preferences and past triage decisions using Claude, auto-filters low-fit roles, and generates a tailored resume and cover letter when a role is marked to apply. Runs three times a day on GitHub Actions at ~$5 a month. I am using it live for my current job hunt.
+
+**MyEpitaph** — End-of-life planning platform. Zero-knowledge, client-side AES-256 encryption so the server never sees plaintext. Executor verification protocol, dead-man's-switch heartbeat, scheduled recurring messages, and a 3D casket designer with Stripe pre-order. Built for a domain where privacy and trust have to be design decisions, not settings added at the end.
+
+**TrailMates** — Real-time social fitness app for runners, cyclists and hikers. Live GPS recording, GPX import and export, an augmented-reality proximity radar rendered over the phone camera, and a Challengers-vs-Mates model that separates training partners from public competitors. Falls back to a self-drawn compass canvas when the maps API key is absent, so nothing blocks testing.
+
+**Beanology** — Coffee recommendation app that reads location, weather and mood to suggest beans, recipes and pairings.
+
+**HungryJury** — Group dining decision app that aggregates cravings and context into one shared recommendation.
+
+**Serene Pause** — Emotional wellness app with selectable listener modes and guided exercises.
+
+**CryptoPredict AI** — Cryptocurrency dashboard with market data, technical indicators and predictive analysis.
 
 ### What I work with
 
@@ -35,6 +40,5 @@ I am not a software engineer by training. I am a product and data person who lea
 ---
 
 Based in Hong Kong. I like messy data problems and clear explanations.
-
 
 [LinkedIn](https://linkedin.com/in/lamkaren)
