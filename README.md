@@ -26,9 +26,11 @@ I am not a software engineer by training. I am a product and data person who lea
 
 **Fervent Prayer Curator** — AI-powered prayer companion. Generates biblically grounded prayers inspired by different theological voices (Apostle Paul, King David, and others), paired with 5–7 supporting scripture references and contextual commentary. Supports 16+ languages including Chinese, Japanese, Arabic and Hindi. Installable as a Progressive Web App with native share to WhatsApp and email.
 
+**Mahjong Faan Calculator** — Native Android app that scores mahjong hands from a photo. Gemini Vision reads the tiles, then one of five deterministic rule engines (Hong Kong, Taiwanese, Vietnamese, Shanghainese, Shenzhen) calculates the faan/tai/phán count and works out who owes what to whom — seat winds, self-draw versus discard liability, half-spicy or full-spicy stake progressions. Kotlin with Jetpack Compose, MVVM. The first native Android build in this list; the others are web or PWA.
+
 ### What I work with
 
-**Building:** React, TypeScript, Tailwind CSS, Google AI Studio, Copilot Studio
+**Building:** React, TypeScript, Tailwind CSS, Google AI Studio, Copilot Studio, Kotlin & Jetpack Compose
 
 **Data:** SQL, Power BI, Tableau, Alteryx, data modelling and governance
 
