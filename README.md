@@ -23,7 +23,7 @@ Community lost-pet emergency network for Hong Kong. Golden 3-Hour broadcast, liv
 _Kotlin · Jetpack Compose · Room Database_
 
 ### ⚰️ MyEpitaph
-After-death preplanning platform. Last words to loved ones, scheduled continuing messages after you die, physical and digital asset handling, delegated chores for those left behind, funeral arrangements, and a 3D casket designer with preorder from environmentally-friendly 3D printing vendors. Incorporated as **MyEpitaph Limited** and preparing for commercial launch.
+After-death preplanning platform. Last words to loved ones, scheduled continuing messages after you die, physical and digital asset handling, delegated chores for those left behind, funeral arrangements, and a 3D casket designer with preorder from environmentally-friendly 3D printing vendors. Incorporated as **Wabi Tovi Studio** and preparing for commercial launch.
 _React · TypeScript · Firebase · Google Cloud Run · Gemini API · Stripe_
 
 ### 🥾 TrailMates
