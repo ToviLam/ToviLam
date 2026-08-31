@@ -49,6 +49,12 @@ Most digital prayer aids are English-first and default to a generic ecumenical v
 
 ---
 
+## 🔧 Personal Tooling
+
+**job-digest** (private repo) — a scheduled GitHub Actions workflow that uses Claude API, Notion, Gmail, and JSearch to surface, score, and triage roles. Mostly interesting as an exercise in multi-tool orchestration and building a calibration loop that learns from my triage decisions. Rebuilt three times as new models and tools have shipped.
+
+---
+
 ## 🛠 What I Work With
 
 **Data & analytics** — SQL · Alteryx · Power BI · Tableau · Excel · Microsoft Copilot
