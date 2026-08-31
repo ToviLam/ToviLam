@@ -23,7 +23,7 @@ The first three hours after a pet goes missing are the ones that matter most, bu
 _Kotlin · Jetpack Compose · Room Database_
 
 ### ⚰️ MyEpitaph  →  [myepitaph.tech](https://myepitaph.tech/)
-Most estate-planning tools focus on the legal and financial side — will, executor, assets — and ignore the parts people actually care about. MyEpitaph handles both. On the practical side: physical and digital asset instructions, executor chores, and funeral arrangements. On the emotional side: last words for the people you love, scheduled messages that keep arriving after you are gone (birthdays, anniversaries, milestones you want to be part of), and a 3D casket designer where you can preorder from environmentally-friendly 3D printing vendors. Incorporated as **MyEpitaph Limited**, preparing for commercial launch.
+Most estate-planning tools focus on the legal and financial side — will, executor, assets — and ignore the parts people actually care about. MyEpitaph handles both. On the practical side: physical and digital asset instructions, executor chores, and funeral arrangements. On the emotional side: last words for the people you love, scheduled messages that keep arriving after you are gone (birthdays, anniversaries, milestones you want to be part of), and a 3D casket designer where you can preorder from environmentally-friendly 3D printing vendors. Incorporated as **Wabi Tov Studio**, preparing for commercial launch.
 _React · TypeScript · Firebase · Google Cloud Run · Gemini API · Stripe_
 
 ### 🥾 TrailMates
@@ -88,8 +88,8 @@ Most digital prayer aids are English-first and default to a generic ecumenical v
 
 - ✉️  [KarenLam@alumni.uwo.ca](mailto:KarenLam@alumni.uwo.ca)
 - 🔗  [linkedin.com/in/lamkaren](https://linkedin.com/in/lamkaren)
-- 🏢  [Tovi Studio](https://www.linkedin.com/company/tovi-studio/) — personal studio
-- 📱  +852 9736-0089  ·  +1 672-200-2672
+- 🏢  [Wabi Tov Studio](https://www.linkedin.com/company/tovi-studio/) — personal studio
+
 
 Open to conversations about senior product, data, and AI-native product roles.
 
