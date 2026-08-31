@@ -88,8 +88,8 @@ Prayer companion in 16+ languages including Traditional Chinese, Tagalog, Bahasa
 
 - ✉️  [KarenLam@alumni.uwo.ca](mailto:KarenLam@alumni.uwo.ca)
 - 🔗  [linkedin.com/in/lamkaren](https://linkedin.com/in/lamkaren)
-- 🏢  [Tovi Studio](https://www.linkedin.com/company/tovi-studio/) — personal studio
-- 📱  +852 9736-0089  ·  +1 672-200-2672
+- 🏢  [Wabi Tov Studio](https://www.linkedin.com/company/tovi-studio/) — personal studio
+
 
 Open to conversations about senior product, data, and AI-native product roles.
 
